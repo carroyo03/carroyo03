@@ -63,7 +63,7 @@ Hello! I'm Carlos Arroyo, a third-year Computer Science student at CUNEF in Madr
 - Led a discussion team on debate tournaments at CEU University
 
 ## Additional Achievements
-- Excellence Program, Universidad de Navarra (Jan '19 - Jan '21)
+- **Excellence Program**, Universidad de Navarra (Jan '19 - Jan '21)
   - Honourable Mention for research on "The Army's role in the Spanish Transition" and "The Silent Reset: How streaming platforms influence our perception of reality."
 
 ## Personal Projects
