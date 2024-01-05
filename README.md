@@ -7,14 +7,14 @@
 Hello! I'm Carlos Arroyo, a third-year Computer Science student at CUNEF in Madrid. I'm enthusiastic about innovative problem-solving and software development, actively seeking opportunities to explore diverse areas within the field.
 
 ## Technical Skills
-- Programming Languages: Python, C/C++, R, Java
-- Version Control: Git/GitHub
-- Database: SQL
-- Tools: VS Code, Figma/FigJam, Linux, MS Office, Google Workspace, Netbeans, RStudio, Trello
-- Languages: Spanish (Native), English (Advanced), French (Lower Intermediate)
+- **Programming Languages:** Python, C/C++, R, Java
+- **Version Control:** Git/GitHub
+- **Database:** SQL
+- **Tools:** VS Code, Figma/FigJam, Linux, MS Office, Google Workspace, Netbeans, RStudio, Trello
+- **Languages:** Spanish (Native), English (Advanced), French (Lower Intermediate)
 
 ## Education
-- BSc Computer Science, CUNEF (Sep '21 - May '25)
+- **BSc Computer Science, CUNEF** (Sep '21 - May '25)
   - Class Representative with an average qualification of 8.4 (B+ ECTS equivalent)
 
 ## Working Experience
@@ -27,7 +27,7 @@ Hello! I'm Carlos Arroyo, a third-year Computer Science student at CUNEF in Madr
   - Teaching C/C++ and Java OOP to 1st-year BSc Computer Science students.
 
 ## Certifications
-- IELTS Academic (Feb 2021)
+- **IELTS Academic** (Feb 2021)
 
 ## Courses
 - **Swift Learning** (Jan '24 - Present)
