@@ -57,13 +57,11 @@ Hello! I'm Carlos Arroyo, a third-year Computer Science student at CUNEF in Madr
 - Constructed project schema and database infrastructure.
 - Implemented features allowing users to refine choices based on genres and explore top artists.
 
-## Awards and Achievements
+## Awards
 - Grant Award - CUNEF
 - Research projects: "Artificial Intelligence and its possible effects on society" - CUNEF
 - Selected for Pangea Mathematics Olympics
 - Led a discussion team on debate tournaments at CEU University
-
-## Additional Achievements
 - Excellence Program, Universidad de Navarra (Jan '19 - Jan '21)
   - Honourable Mention for research on "The Army's role in the Spanish Transition" and "The Silent Reset: How streaming platforms influence our perception of reality."
 
