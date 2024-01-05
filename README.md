@@ -33,14 +33,14 @@ Hello! I'm Carlos Arroyo, a third-year Computer Science student at CUNEF in Madr
 - **Swift Learning** (Jan '24 - Present)
   - Hacking with SwiftUI (Paul Hudson)
 - **Git and GitHub Course** (Apr '23)
-  - [MoureDev](#)
+  - [MoureDev](https://github.com/mouredev)
 
 - **Figma Design Software Training** (Dec '21)
   - Private tuition covering basic fundamentals of digital design.
 - **C++ Programming Course** (Aug '21)
-  - [FreeCodeCamp.org](#)
+  - [FreeCodeCamp.org](https://youtu.be/vLnPwxZdW4Y?si=b3jF32lehhT8KKmd)
 - **Python Full Programming Course** (Feb '21)
-  - [FreeCodeCamp.org](#)
+  - [FreeCodeCamp.org](https://youtu.be/rfscVS0vtbw?si=lLoWPbBFG9JsvxP5)
 
 ## Projects
 ### A* Algorithm Team Project (Oct '23 - Dec '23)
