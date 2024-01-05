@@ -31,7 +31,7 @@ Hello! I'm Carlos Arroyo, a third-year Computer Science student at CUNEF in Madr
 
 ## Courses
 - **Swift Learning** (Jan '24 - Present)
-  - Hacking with SwiftUI (Paul Hudson)
+  - [Hacking with SwiftUI (Paul Hudson)](https://www.hackingwithswift.com/100/swiftui)
 - **Git and GitHub Course** (Apr '23)
   - [MoureDev](https://github.com/mouredev)
 
