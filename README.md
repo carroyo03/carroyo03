@@ -18,7 +18,7 @@ Hello! I'm Carlos Arroyo, a third-year Computer Science student at CUNEF in Madr
   - *Class Representative* with an average qualification of 8.4 (B+ ECTS equivalent)
 
 ## Work Experience
-### CUNEF, Madrid
+### CUNEF
 - **C/C++ Assistant Professor** (Sep '22 - Dec '22)
   - Assisted Programming I professors with laboratory sessions.
 
