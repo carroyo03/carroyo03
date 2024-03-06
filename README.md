@@ -7,7 +7,7 @@ Passionate penultimate-year **Computer Science** student with a keen interest in
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>]( )  [<img src='https://www.svgrepo.com/show/330233/cplusplus.svg' alt='c++' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg' alt='r' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>]( )  
 
-- 🌱 I’m currently learning **HTML/CSS** and **Swift** 
+
 - 👯 I’m looking to collaborate on **AI**  projects 
 - ⚡ Fun fact: I love coding while I am listening to Lo-Fi beats 
 
