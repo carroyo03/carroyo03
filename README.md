@@ -1,6 +1,6 @@
 ## Carlos Arroyo
 ![Computer Science Student](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-### Computer Science Student
+### Computer Scientist
 Passionate last-year **Computer Science** student with a keen interest in creative **problem-solving** and **software development**. Building a robust foundation in **programming** and **AI**, I embrace a proactive learning approach. Excited about contributing my evolving skills to the dynamic realm of software development.
 
 #### Skills
